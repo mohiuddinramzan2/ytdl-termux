@@ -40,7 +40,7 @@ pkg install -y git
 
 ### 3. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ytdl-termux.git
+git clone https://github.com/mohiuddinramzan2/ytdl-termux.git
 cd ytdl-termux
 ```
 
